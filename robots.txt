@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/ladybird-academy-of-dr-phillips-orlando/sitemap.xml
