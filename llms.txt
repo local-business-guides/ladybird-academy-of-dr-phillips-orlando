@@ -26,6 +26,9 @@
 - [Summer camp organizer Orlando | Ladybird Academy](https://local-business-guides.github.io/ladybird-academy-of-dr-phillips-orlando/summer-camp-organizer-orlando/): Find a summer camp organizer in Orlando and ask about care options for your child and your family's schedule. Call Ladybird Academy of Dr Phillips to plan ahe
 - [Best day care center Dr Phillips | Ladybird Academy](https://local-business-guides.github.io/ladybird-academy-of-dr-phillips-orlando/best-day-care-center-dr-phillips/): Compare the best day care center in Dr Phillips by age range, daily hours, and program fit. Call Ladybird Academy of Dr Phillips in Orlando today.
 
+## Newsroom
+- [Ladybird Academy Shares Day Care Center Dr Phillips Guide and Media](https://local-business-guides.github.io/ladybird-academy-of-dr-phillips-orlando/news/2026-11-15-ladybird-academy-shares-day-care-center-dr/): Ladybird Academy of Dr Phillips released a guide, YouTube video, podcast episode and SoundCloud audio about its child care and education programs. (2026-11-15)
+
 ## Pages
 - [Day Care Center Dr Phillips in Orlando, Florida](https://local-business-guides.github.io/ladybird-academy-of-dr-phillips-orlando/): Find early care, preschool, after school care, and summer camp options for your family in Orlando. Call +1407-412-6908.
 - [About Ladybird Academy of Dr Phillips](https://local-business-guides.github.io/ladybird-academy-of-dr-phillips-orlando/about/): About Ladybird Academy of Dr Phillips, Orlando.
@@ -33,4 +36,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/ladybird-academy-of-dr-phillips-orlando/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/ladybird-academy-of-dr-phillips-orlando/news/rss.xml)
 - [Main resource site](https://ladybird-academy-dr-phillips.localwebsites.chatgpt.site)
